@@ -39,7 +39,14 @@ This dashboard is not just a tool; it's your personalized financial guide. Take 
 
 **Let's get started on your financial transformation!**
 
-![Dashboard Preview](link_to_dashboard_image)
+*Snapshot of Dashboard*
 
-*[Link to Dashboard Preview or Live Demo]*
+![Dashboard](https://github.com/for-Ritwick/Personal-Finance-Dashboard-on-Power-BI/assets/95772459/3578b5a3-3e30-45b2-8a8a-79881631c14c)
 
+## Additional Picture
+
+*Net Worth Trend*
+
+![Personal Finance Dashboard_PDF1-5](https://github.com/for-Ritwick/Personal-Finance-Dashboard-on-Power-BI/assets/95772459/fe62c97a-1181-4701-9293-50c6a74ab8a9)
+
+Thank you!
